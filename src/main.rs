@@ -27,3 +27,14 @@ impl Pendulum {
 
     }
 }
+
+mod vector {
+    struct Vector {
+        pub x: f32,
+        pub y: f32,
+    }
+
+    impl Vector {
+        
+    }
+}
